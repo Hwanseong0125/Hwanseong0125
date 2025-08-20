@@ -12,7 +12,7 @@
 class Developer {
 private:
     string name = "Hwanseong";
-    string role = "Algorithm Enthusiast & Robotics Engineer";
+    string role = "Embedded Developer";
     vector<string> languages = {"C++", "C", "Python"};
     
 public:
@@ -53,7 +53,7 @@ public:
 - 🔥 **Active Solver** on Baekjoon Online Judge
 - 📚 **SSAFY Algorithm Study** Participant  
 - 🎯 **Daily Practice** - One problem a day keeps bugs away!
-- 💡 **Favorite Topics**: Dynamic Programming, Graph Theory, Data Structures
+- 💡 **Favorite Topics**: Dynamic Programming, BFS/DFS
 
 ## 🛠️ Tech Stack
 
