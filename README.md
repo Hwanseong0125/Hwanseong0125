@@ -139,19 +139,6 @@ public:
 
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hwanseong0125&show_icons=true&theme=tokyonight&hide_border=true&count_private=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwanseong0125&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hwanseong0125&theme=tokyo-night&hide_border=true)
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hwanseong0125&theme=tokyonight)
-
-</div>
 
 ## 🏃‍♂️ Current Activities
 
