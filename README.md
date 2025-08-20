@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Problem%20Solver%20and%20Robotics%20Engineer&fontSize=35&fontAlignY=35&desc=Passionate%20about%20Algorithms%20and%20Automation&descAlignY=51&descSize=15)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Problem%20Solver%20and%20Embedded%20Developer&fontSize=35&fontAlignY=35&desc=Passionate%20about%20Algorithms%20and%20Automation&descAlignY=51&descSize=15)
 
 </div>
 
@@ -53,7 +53,7 @@ public:
 - 🔥 **Active Solver** on Baekjoon Online Judge
 - 📚 **SSAFY Algorithm Study** Participant  
 - 🎯 **Daily Practice** - One problem a day keeps bugs away!
-- 💡 **Favorite Topics**: Dynamic Programming, BFS/DFS
+- 💡 **Favorite Topics**: Dynamic Programming, Graph Theory, Data Structures
 
 ## 🛠️ Tech Stack
 
@@ -143,14 +143,11 @@ public:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hwanseong0125&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hwanseong0125&layout=compact&langs_count=8&theme=radical"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hwanseong0125&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwanseong0125&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hwanseong0125&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Hwanseong0125&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -160,11 +157,11 @@ public:
 📅 Daily Schedule:
 ├── 🌅 Morning   → Algorithm Problem Solving (BOJ)
 ├── 🏫 Daytime   → SSAFY Training & Projects  
-├── 🌆 Evening   → Studying C++ && Running 
+├── 🌆 Evening   → Studying C++ & Running
 └── 🌙 Night     → Code Review & Learning
 ```
 
-### 🎯 2025 Goals
+### 🎯 202 Goals
 - [ ] 🥇 **Reach Platinum Tier** in Baekjoon Online Judge
 - [ ] 🤖 **Complete SSAFY Projects** with AI Integration
 - [ ] 📚 **Master Advanced Algorithms** (Graph, DP, Trees)
