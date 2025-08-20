@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Problem%20Solver%20%26%20Robotics%20Engineer&fontSize=35&fontAlignY=35&desc=Passionate%20about%20Algorithms%20and%20Automation&descAlignY=51&descSize=15)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Problem%20Solver%20and%20Robotics%20Engineer&fontSize=35&fontAlignY=35&desc=Passionate%20about%20Algorithms%20and%20Automation&descAlignY=51&descSize=15)
 
 </div>
 
@@ -160,44 +160,16 @@ public:
 📅 Daily Schedule:
 ├── 🌅 Morning   → Algorithm Problem Solving (BOJ)
 ├── 🏫 Daytime   → SSAFY Training & Projects  
-├── 🌆 Evening   → Robotics & AI Development
+├── 🌆 Evening   → Studying C++ && Running 
 └── 🌙 Night     → Code Review & Learning
 ```
 
-### 🎯 2024 Goals
-- [ ] 🥇 **Reach Gold Tier** in Baekjoon Online Judge
-- [ ] 🤖 **Complete 3 Robotics Projects** with AI Integration
+### 🎯 2025 Goals
+- [ ] 🥇 **Reach Platinum Tier** in Baekjoon Online Judge
+- [ ] 🤖 **Complete SSAFY Projects** with AI Integration
 - [ ] 📚 **Master Advanced Algorithms** (Graph, DP, Trees)
-- [ ] 🏆 **Participate in Programming Contests** (ICPC, CodeForces)
 - [ ] 💼 **Build Professional Portfolio** for Job Applications
 
-## 🌟 Fun Facts
-
-<div align="center">
-
-```cpp
-// My Programming Philosophy
-while (alive) {
-    eat();
-    sleep();
-    code();
-    solve_problems();
-    if (stuck) {
-        debug();
-        google_it();
-        ask_community();
-    }
-    repeat();
-}
-```
-
-</div>
-
-- 🎮 **Favorite IDE**: VS Code with C++ extensions
-- ☕ **Fuel**: Coffee + Energy Drinks during contest sessions  
-- 🎵 **Coding Music**: Lo-fi Hip Hop & Classical
-- 🏆 **Dream Goal**: Contributing to Open Source Robotics Projects
-- 📚 **Currently Reading**: "Introduction to Algorithms" by CLRS
 
 ## 🤝 Let's Connect!
 
